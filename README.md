@@ -1,12 +1,14 @@
 - 🔭 I’m currently working on front-end dev with HTML,  CSS and JS
 - 🌱 I’m currently learning js, react and nodeJS
 
-<Stats:>
+Stats:
 <div>
   <a href="francielferreira.github.io">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francielferreira&show_icons=true&theme=jolly">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francielferreira&theme=jolly"></a>
 </div>
+
+##
 
 Top sKills:
 <div>
@@ -14,6 +16,8 @@ Top sKills:
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 </div>
+
+##
 
 Interest SKills:
 <div>
@@ -25,8 +29,9 @@ Interest SKills:
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></a>
-  
 </div>
+
+##
 
 Social:
 <div>
