@@ -1,5 +1,3 @@
-### Hello World! 👋
-
 # francielferreira.github.io
 
 - 🔭 I’m currently working on front-end dev
@@ -8,13 +6,8 @@
 <div>
   <a href="francielferreira.github.io">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=francielferreira&show_icons=true&theme=jolly">
-  </a>  
-  <a href="francielferreira.github.io">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francielferreira&layout=compact">
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francielferreira&theme=jolly">
 </div>
-
-
 
 
 <!--
