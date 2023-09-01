@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on front-end dev with HTML,  CSS and JS
-- 🌱 I’m currently learning js, react, nodeJS and php
+- 🌱 I’m currently learning js, react and nodeJS
 
 Stats:
 <div>
