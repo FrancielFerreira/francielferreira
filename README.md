@@ -1,19 +1,15 @@
-### Olá, Eu sou Franciel Ferreira, um desenvolver front-end apaixonado por tecnologias e criação de interfaces.
 ### Hello, I'm Franciel Ferreira, a front-end developer passionate about technology and creating interfaces.
 
 ---
-#### Tecnologias principais
 #### Main Stack
 * HTML, CSS, JavaScript, and ReactJS
 
 ---
-#### Estou estudando:
 #### I'm studying:
 * NodeJs, TypeScript, Next JS
 
 ---
-#### Outras tecnologias que conheço
-#### Other technologies I know
+#### Other technologies 
 * PHP, Wordpress
 * Firebase
 * Figma
